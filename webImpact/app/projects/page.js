@@ -2,6 +2,9 @@ import { client } from "@/sanity/lib/client";
 import Container from '../components/Container';
 import Image from 'next/image';
 import { urlFor } from "@/sanity/lib/image";
+export const dynamic = 'force-dynamic'
+export const revalidate = 0;
+
 
 
 // export default async function Photos() {

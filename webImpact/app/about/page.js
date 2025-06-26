@@ -79,7 +79,7 @@ export default function About() {
           </div>
           <h2 className="text-2xl font-bold text-gray-200 text-center">Interests</h2>
           <p className="text-gray-300 text-justify">
-            My passion lies in a lot of stuff ! In particular, I&apos;m interested in AI and machine learning. I also enjoy contributing to impactful projects. Outside of tech, I love exploring new areas, be it nature or new cities, and diving into books that spark curiosity.
+            My passion lies in a lot of stuff ! In particular, I&apos;m interested in AI and machine learning. I also enjoy contributing to impactful projects. Outside of tech, I love exploring new areas, be it nature or new cities, and diving into books.
           </p>
         </div>
 
@@ -90,7 +90,7 @@ export default function About() {
           </div>
           <h2 className="text-2xl font-bold text-center text-gray-200">Past experiences</h2>
           <p className="text-gray-300 text-justify">
-            During my studies, I worked on several exciting projects. At EPFL, I have helped building an AI chatbot that answers students&apos; questions and provide fast feedbacks on their assignements. I have also contributed to the Spacecraft Team for the <span className="text-indigo-400">CHESS Mission</span>, where I developed encoding and decoding algorithms for satellite communications. 
+            During my studies, I worked on several exciting projects. At EPFL, I have helped building an AI chatbot that answers students&apos; questions and provide fast feedbacks on their assignements. I have also contributed to the Spacecraft Team for the <span className="text-indigo-400">CHESS Mission</span>, where I developed encoding and decoding algorithms for satellite communications. More recently, I have worked as a Machine Learning research intern for HSCs cells detection and classification at Fred Hutch, Seattle. I have also contributed to the UW UbiComp Lab to create a tool for tech neck detection.  
           </p>
         </div>
       </div>

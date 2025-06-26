@@ -15,8 +15,7 @@ export default function Home() {
       country: "United States"
     },
     contact: {
-      email: "juliane.mercoli@gmail.com",
-      phone: "+1 206-793-9894",
+      email: "juliane.mercoli@gmail.com"
     },
   };
 
